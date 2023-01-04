@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://logos-download.com/wp-content/uploads/2016/05/LOccitane_en_Provence_logo_logotype.png
   name: CCAPI Status Page
   introTitle: "**Welcome** on the CCAPI status page"
-  introMessage: "You can check the heath of each endpoint"
+  introMessage: "You can check the heath of each endpoint \o/"
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
