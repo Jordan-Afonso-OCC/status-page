@@ -4,18 +4,20 @@
     "url": "$GET_CUSTOMER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ccapi-get-customer-by-mdm-id",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2375,
-    "timeDay": 2375,
-    "timeWeek": 2375,
-    "timeMonth": 2375,
-    "timeYear": 2375,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.00%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "98.00%",
+    "time": 1583,
+    "timeDay": 1583,
+    "timeWeek": 1583,
+    "timeMonth": 1583,
+    "timeYear": 1583,
+    "dailyMinutesDown": {
+      "2023-01-04": 0
+    }
   },
   {
     "name": "CCAPI Get customer by email",
