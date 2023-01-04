@@ -1,4 +1,4 @@
-name: Dev deployment
+name: Update token in secrets
 on:
   schedule:
     - cron: "*/20 * * * *"
