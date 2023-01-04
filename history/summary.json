@@ -5,19 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ccapi-get-customer",
     "status": "up",
-    "uptime": "20.29%",
-    "uptimeDay": "20.29%",
-    "uptimeWeek": "20.29%",
-    "uptimeMonth": "20.29%",
-    "uptimeYear": "20.29%",
-    "time": 967,
-    "timeDay": 967,
-    "timeWeek": 967,
-    "timeMonth": 967,
-    "timeYear": 967,
-    "dailyMinutesDown": {
-      "2023-01-04": 614,
-      "2023-01-03": 461
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1034,
+    "timeDay": 1034,
+    "timeWeek": 1034,
+    "timeMonth": 1034,
+    "timeYear": 1034,
+    "dailyMinutesDown": {}
   }
 ]
