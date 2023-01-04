@@ -1,0 +1,22 @@
+name: Dev deployment
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+jobs:
+  unit_test:
+    runs-on: ubuntu-latest
+    name: Run script to update secret
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+      - name: Install deps and run script
+        run: |
+          npm ci
+          export APIM_CLIENT_ID=${{ secrets.APIM_CLIENT_ID }}
+          export APIM_CLIENT_SECRET=${{ secrets.APIM_CLIENT_SECRET }}
+          export GITHUB_API_BEARER=${{ secrets.GH_API_BEARER }}
+          node index.js
+        working-directory: script/updateSecret
