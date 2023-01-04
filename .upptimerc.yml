@@ -18,5 +18,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   i18n:
-    footer: ""
+    footer: "If you have a question, please contact us at ccapis@loccitane.com"
 
