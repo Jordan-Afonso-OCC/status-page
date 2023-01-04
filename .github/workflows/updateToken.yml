@@ -2,6 +2,7 @@ name: Update token in secrets
 on:
   schedule:
     - cron: "*/20 * * * *"
+  workflow_dispatch:
 jobs:
   unit_test:
     runs-on: ubuntu-latest
