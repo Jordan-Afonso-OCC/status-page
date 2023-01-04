@@ -18,6 +18,6 @@ jobs:
           npm ci
           export APIM_CLIENT_ID=${{ secrets.APIM_CLIENT_ID }}
           export APIM_CLIENT_SECRET=${{ secrets.APIM_CLIENT_SECRET }}
-          export GITHUB_API_BEARER=${{ secrets.GH_API_BEARER }}
+          export GH_API_BEARER=${{ secrets.GH_API_BEARER }}
           node index.js
         working-directory: script/updateSecret
