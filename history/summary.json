@@ -4,19 +4,19 @@
     "url": "$GET_CUSTOMER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ccapi-get-customer-by-mdm-id",
-    "status": "down",
-    "uptime": "92.40%",
-    "uptimeDay": "92.40%",
-    "uptimeWeek": "92.40%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "92.40%",
-    "time": 1367,
-    "timeDay": 1367,
-    "timeWeek": 1367,
-    "timeMonth": 1367,
-    "timeYear": 1367,
+    "status": "up",
+    "uptime": "87.01%",
+    "uptimeDay": "87.01%",
+    "uptimeWeek": "87.01%",
+    "uptimeMonth": "87.01%",
+    "uptimeYear": "87.01%",
+    "time": 1380,
+    "timeDay": 1380,
+    "timeWeek": 1380,
+    "timeMonth": 1380,
+    "timeYear": 1380,
     "dailyMinutesDown": {
-      "2023-01-05": 45
+      "2023-01-05": 82
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$GET_CUSTOMER_BY_EMAIL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ccapi-get-customer-by-email",
-    "status": "down",
-    "uptime": "92.41%",
-    "uptimeDay": "92.41%",
-    "uptimeWeek": "92.41%",
-    "uptimeMonth": "92.41%",
-    "uptimeYear": "92.41%",
-    "time": 338,
-    "timeDay": 338,
-    "timeWeek": 338,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "status": "up",
+    "uptime": "87.01%",
+    "uptimeDay": "87.01%",
+    "uptimeWeek": "87.01%",
+    "uptimeMonth": "87.01%",
+    "uptimeYear": "87.01%",
+    "time": 340,
+    "timeDay": 340,
+    "timeWeek": 340,
+    "timeMonth": 340,
+    "timeYear": 340,
     "dailyMinutesDown": {
-      "2023-01-05": 45
+      "2023-01-05": 82
     }
   }
 ]
