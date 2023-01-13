@@ -1,7 +1,7 @@
 url: $GET_CUSTOMER_URL
-status: down
-code: 401
-responseTime: 1037
-lastUpdated: 2023-01-13T01:26:29.780Z
+status: up
+code: 200
+responseTime: 1441
+lastUpdated: 2023-01-13T02:38:10.438Z
 startTime: Wed Jan 04 2023 15:45:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
