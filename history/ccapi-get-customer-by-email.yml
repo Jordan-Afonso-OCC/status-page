@@ -1,7 +1,7 @@
 url: $GET_CUSTOMER_BY_EMAIL_URL
-status: down
-code: 401
-responseTime: 130
-lastUpdated: 2023-01-30T00:54:47.041Z
+status: up
+code: 200
+responseTime: 344
+lastUpdated: 2023-01-30T02:13:59.383Z
 startTime: Wed Jan 04 2023 15:45:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
